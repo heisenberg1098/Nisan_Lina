@@ -55,33 +55,33 @@ function gunluksiir() {
     switch (gun) {
         case 4:
             gununsiiriisim = "Bir Çocuk Sevdim";
-            ses.src = "music/bircocuksevdim.mp3";
+            ses.src = "bircocuksevdim.mp3";
             gununsiiri = `Bir çocuk gördüm uzaklarda\n Gözleri kederli, hatta korkulu\n Her şeye rağmen, bir an gülümsedi çocuk\n Sıcak, sade ama biraz kuşkulu\n \n Bir çocuk sevdim uzaklarda\n Sanıyordum ki onun özlemi de buydu\n O ise bir bakışta beni örtülerimden\n Yalnızca, yalnızca duygularıyla soydu\n \n Ben böyle yürek görmedim, böyle sevgi\n Şimdi çocuk büyümekte günbegün\n Bütün hüzünleri okşadı birer birer\n Gizli bir ümide sarılarak biraz küskün\n \n Ben böyle yürek görmedim, böyle sevgi\n Şimdi çocuk büyümekte günbegün\n Bütün hüzünleri okşadı birer birer\n Gizli bir ümide sarılarak biraz küskün\n \n Bir çocuk gördüm uzaklarda\n Biraz çocuk, biraz adam, biraz hiçti\n Ellerinde yaşlı zaman demetleri\n Daha önce denenmemiş, yeni bir yol seçti\n \n Bir çocuk sevdim uzaklarda\n Bir elinde yarın, öbür elinde dün\n Erken ihtiyarlamaktan sanki biraz üzgün\n Dünyanın hâline bakıp güldü geçti\n \n Ben böyle yürek görmedim, böyle sevgi\n Şimdi çocuk büyümekte günbegün\n Bütün hüzünleri okşadı birer birer\n Gizli bir ümide sarılarak biraz küskün\n \n Ben böyle yürek görmedim, böyle sevgi\n Şimdi çocuk büyümekte günbegün\n Bütün hüzünleri okşadı birer birer\n Gizli bir ümide sarılarak biraz küskün\n \n Ben böyle yürek görmedim, böyle sevgi\n Şimdi çocuk büyümekte günbegün\n Bütün hüzünleri okşadı birer birer\n Gizli bir ümide sarılıp küstü\n`;
             break;
         case 5:
 
             gununsiiriisim = "Unuttun Mu Beni";
-            ses.src = "music/mp3indirdur-Sezen-Aksu-Unuttun-Mu-Beni.mp3";
+            ses.src = "mp3indirdur-Sezen-Aksu-Unuttun-Mu-Beni.mp3";
             gununsiiri = `Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Sanırdım ki aşklar ancak\n Filmlerde böyle\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ey aşk, neredesin şimdi?\n Sen de mi terk ettin beni?\n Ne hata ettiysem affet\n Büyüklük sende kalsın, e mi?\n \n Sen de olmazsan eğer\n Batar artık bu gemi\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n`;
             break;
         case 6:
             gununsiiriisim = "Biliyorsun";
-            ses.src = "music/mp3indirdur-Sezen-Aksu-Biliyorsun.mp3";
+            ses.src = "mp3indirdur-Sezen-Aksu-Biliyorsun.mp3";
             gununsiiri = `Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Sanırdım ki aşklar ancak\n Filmlerde böyle\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ey aşk, neredesin şimdi?\n Sen de mi terk ettin beni?\n Ne hata ettiysem affet\n Büyüklük sende kalsın, e mi?\n \n Sen de olmazsan eğer\n Batar artık bu gemi\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n`;
             break;
         case 7:
             gununsiiriisim = "Firuze";
-            ses.src = "music/mp3indirdur-Sezen-Aksu-Firuze.mp3";
+            ses.src = "mp3indirdur-Sezen-Aksu-Firuze.mp3";
             gununsiiri = `Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Hiç düşmedim mi aklına?\n Hiç çalmadı mı o şarkı?\n O sahil, o ev, o ada\n O kırlangıç da mı küs bana?\n \n Sanırdım ki aşklar ancak\n Filmlerde böyle\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ey aşk, neredesin şimdi?\n Sen de mi terk ettin beni?\n Ne hata ettiysem affet\n Büyüklük sende kalsın, e mi?\n \n Sen de olmazsan eğer\n Batar artık bu gemi\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Ben hâlâ dolaşıyorum avare\n Hani görsen, enikonu divane\n Ne yaptıysam olmadı, ne çare\n Unutamadım gitti\n \n Unuttun mu beni?\n Her şeyimi\n Sildin mi bütün\n İzlerimi\n`;
             break;
         case 29:
             gununsiiriisim = "Adı Bende Saklı";
-            ses.src = "music/adı-bende-sakli.mp3";
+            ses.src = "adı-bende-sakli.mp3";
             gununsiiri = `Bölünür sancıyla uykular\nSığınak değil en kuytular\nGökte ay öndört ben dolunay\nSon hatıramı sinene sar\nBu kadarına razıyım yar\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Dalda muhabbette kumrular\nBana ayrılığı sordular\nDedim afet, yangın, dedim kar\nDedim adet aşkı vururlar\nDedim adet aşkı vururlar\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı`;
             break;
         default:
             gununsiiriisim = "Adı Bende Saklı";
-            ses.src = "music/adı-bende-sakli.mp3";
+            ses.src = "adı-bende-sakli.mp3";
             gununsiiri = `Bölünür sancıyla uykular\nSığınak değil en kuytular\nGökte ay öndört ben dolunay\nSon hatıramı sinene sar\nBu kadarına razıyım yar\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Dalda muhabbette kumrular\nBana ayrılığı sordular\nDedim afet, yangın, dedim kar\nDedim adet aşkı vururlar\nDedim adet aşkı vururlar\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı\n Uzak diyarlarda evli barklı\nMutluluk en çok onun hakkı\nBu yorgun kırık dökük hikayenin de\nAdı bende saklı`;
             break;
     }
@@ -195,11 +195,11 @@ function atesvesuoyna() {
 var e = 0;
 function ekranbuykuc() {
     if (e % 2 == 0) {
-        oyunekranbk.src = "res/kucuk.png";
+        oyunekranbk.src = "kucuk.png";
         tamEkranYap();
     }
     if (e % 2 == 1) {
-        oyunekranbk.src = "res/buyuk.png";
+        oyunekranbk.src = "buyuk.png";
         tamEkrandanCik();
     }
     e++;
@@ -237,7 +237,7 @@ function tamEkranYap() {
 }
 
 function anasayfa() {
-    document.getElementById("yuklenmeresim").src = "res/Home.png";
+    document.getElementById("yuklenmeresim").src = "Home.png";
     yuklenmeekran.style.display = "block";
 
     setTimeout(() => {
